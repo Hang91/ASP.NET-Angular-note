@@ -4,12 +4,15 @@
 Error: Could not find an NgModule for the new component. Use the skip-import option to skip importing components in NgModule.
 
 solution:
+
 ng g c header --module='app.module.browser.ts'
 
 ## Error2:
 input.mergeMap is not a function
 
 solution:
+
 1.remove the local angular cli by: npm remove @angular/cli --save
+
 2. install global angular cli by: npm install -g @angular/cli@latest
 
