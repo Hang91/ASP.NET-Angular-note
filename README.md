@@ -14,5 +14,10 @@ solution:
 
 1.remove the local angular cli by: npm remove @angular/cli --save
 
-2. install global angular cli by: npm install -g @angular/cli@latest
+2.install global angular cli by: npm install -g @angular/cli@latest
+
+## development mode
+check the website:
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments
+
 
