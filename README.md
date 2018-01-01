@@ -24,7 +24,6 @@ https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments
 ## Error api-ai-javascript compile
 ```json
   "include": [
-    "src/**/*",
-    "node_modules/angular-xyy/index.ts"
+    "node_modules/api-ai-javascript/index.ts"
   ]
 ```
