@@ -21,3 +21,10 @@ check the website:
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments
 
 
+## Error
+```json
+  "include": [
+    "src/**/*",
+    "node_modules/angular-xyy/index.ts"
+  ]
+```
