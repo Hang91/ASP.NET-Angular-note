@@ -1,5 +1,9 @@
 # ASP.NET-Angular-note
 
+## development mode
+```
+$Env:ASPNETCORE_ENVIRONMENT = "Development"
+```
 ## Error1:
 Error: Could not find an NgModule for the new component. Use the skip-import option to skip importing components in NgModule.
 
